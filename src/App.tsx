@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import LessonSixth from "./sixthLessonCallbackOnclickOnchange/06_06";
 
 function App() {
     return (
         <div className="App">
-            <h1>js-ts-for-students</h1>
+            <LessonSixth/>
         </div>
     );
 }
